@@ -1,5 +1,5 @@
 general:
-  build_dir: commons-csv
+  build_dir: /home/ubuntu/commons-csv/
   
 test:
  post:
