@@ -1,3 +1,6 @@
+general:
+  build_dir: commons-csv
+  
 test:
  post:
    - mkdir -p $CIRCLE_TEST_REPORTS/junit/
